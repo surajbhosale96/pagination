@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+li {
+  list-style-type: none;
+  box-shadow: 0 0 12px #ccc;
+  padding: 10px;
+}
+.pageno-container {
+  display: flex;
+}
